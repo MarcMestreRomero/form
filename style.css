@@ -1,0 +1,22 @@
+body {
+  background-image: url('https://www.clemenciaperis.com/blog/wp-content/uploads/2018/04/anillos-de-compromiso-santa-coloma-de-gramanet.jpg');
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+
+}
+
+.custom-form {
+  border-radius: 20px;
+  background-color: orange;
+}
+
+.custom-form .form-label {
+  font-size: 40px;
+}
+
+.custom-form .form-group label {
+  font-size: 40px;
+}
